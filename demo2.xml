@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="alienschema2.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<aliens>
+    <alien aid="A1">
+        <name>Cynth</name>
+        <salary>1000</salary>
+    </alien>
+    <alien aid="A2">
+        <name>Sam</name>
+        <salary>2000</salary>
+    </alien>
+</aliens>

@@ -1,0 +1,24 @@
+<products>
+    <product>
+      <id>1</id>
+      <name>Laptop</name>
+      <price>799.99</price>
+      <quantity>50</quantity>
+      <category>Electronics</category>
+    </product>
+    <product>
+      <id>2</id>
+      <name>T-shirt</name>
+      <price>15.99</price>
+      <quantity>200</quantity>
+      <category>Clothing</category>
+    </product>
+    <product>
+      <id>3</id>
+      <name>Book</name>
+      <price>12.99</price>
+      <quantity>1000</quantity>
+      <category>Books</category>
+    </product>
+  </products>
+  

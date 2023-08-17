@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="demodtd1.dtd" type="application/xml-dtd"?>
+<aliens>
+    <alien aid="A1">
+        <name>Kavi</name>
+        <salary>3000</salary>
+    </alien>
+    <alien aid="A2">
+        <name>Abi</name>
+        <salary>6000</salary>
+    </alien>
+
+</aliens>

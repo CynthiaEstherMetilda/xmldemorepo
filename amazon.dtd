@@ -1,0 +1,26 @@
+<!ELEMENT products (product+)>
+<!ELEMENT product (id, name, price, quantity, category)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
+<!ELEMENT quantity (#PCDATA)>
+<!ELEMENT category (#PCDATA)>
+
+<!ATTLIST product
+    xmlns CDATA #FIXED "http://example.com/products"
+>
+<!ATTLIST id
+    xmlns CDATA #FIXED "http://example.com/products"
+>
+<!ATTLIST name
+    xmlns CDATA #FIXED "http://example.com/products"
+>
+<!ATTLIST price
+    xmlns CDATA #FIXED "http://example.com/products"
+>
+<!ATTLIST quantity
+    xmlns CDATA #FIXED "http://example.com/products"
+>
+<!ATTLIST category
+    xmlns CDATA #FIXED "http://example.com/products"
+>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="alientype.dtd" type="application/xml-dtd"?>
+<aliens>
+    <alien aid="A1">
+        <name>AAA</name>
+        <salary>1000</salary>
+    </alien>
+    <alien aid="A2" lang="C">
+        <name>AAA</name>
+        <salary>1000</salary>
+    </alien>
+</aliens>
